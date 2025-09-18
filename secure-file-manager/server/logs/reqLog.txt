@@ -1,0 +1,5 @@
+20231129	18:13:26	POST	http://localhost:3000	/login/cmauer2
+20231129	18:13:39	POST	http://localhost:3000	/logout/cmauer2
+20231129	18:14:25	POST	http://localhost:3000	/login/cmauer2
+20231129	18:14:50	POST	http://localhost:3000	/logout/cmauer2
+20231129	18:15:26	POST	http://localhost:3000	/login/cmauer2
